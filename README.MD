@@ -1,16 +1,14 @@
 # Merhaba, ben Esra Ergün
 
-### Bilgisayar Mühendisliği Öğrencisi | Full Stack Developer | Computer Vision & Yapay Zekâ
+### Bilgisayar Mühendisliği Öğrencisi | Full Stack Developer | Mobil Uygulama Geliştirici
 
-Bilgisayar Mühendisliği öğrencisiyim ve yazılım geliştirme ile yapay zekâ alanlarında kendimi geliştiriyorum.
+Bilgisayar Mühendisliği öğrencisiyim ve özellikle **Full Stack Web Development** ve **Mobil Uygulama Geliştirme** alanlarında kendimi geliştiriyorum.
 
-Full Stack geliştirme alanında **React, TypeScript, ASP.NET Core ve SQL** teknolojileriyle web uygulamaları geliştirme deneyimine sahibim. Bunun yanında **REST API, JWT, rol bazlı yetkilendirme, Git ve Agile yazılım geliştirme süreçleri** konusunda uygulamalı deneyim kazandım.
+Frontend tarafında **React, TypeScript ve Tailwind CSS**; backend tarafında ise **C#, ASP.NET Core, Entity Framework Core ve SQL** teknolojileriyle uygulamalar geliştiriyorum. Bunun yanında **Flutter ve Dart** ile mobil uygulama geliştirme üzerine çalışıyorum.
 
-Aynı zamanda **Bilgisayarlı Görü (Computer Vision)** ve **Yapay Zekâ** alanlarına ilgi duyuyor; özellikle nesne tespiti, nesne takibi ve görüntü analizi üzerine projeler geliştiriyorum.
+Yazılım geliştirme süreçlerinde **REST API, JWT, rol bazlı yetkilendirme, veritabanı tasarımı, Git ve Agile** gibi konularda uygulamalı deneyim kazanıyorum.
 
-Profesyonel çalışma deneyimimin yanı sıra, ekip koordinasyonu konusunda da deneyim kazanarak görev planlama, Git branch yönetimi, kod entegrasyonu ve ekip içi iş birliği süreçlerinde sorumluluk aldım.
-
-Kariyer hedefim; güçlü bir yazılım mühendisliği altyapısı oluştururken **Computer Vision ve Yapay Zekâ** alanlarında uzmanlaşmak ve ilerleyen süreçte teknik liderlik sorumlulukları üstlenmektir.
+Amacım; hem web hem de mobil platformlarda kullanıcı ihtiyaçlarına yönelik, sürdürülebilir ve ölçeklenebilir uygulamalar geliştiren güçlü bir **Full Stack Developer** olmak.
 
 ---
 
@@ -18,54 +16,27 @@ Kariyer hedefim; güçlü bir yazılım mühendisliği altyapısı oluştururken
 
 ### Programlama Dilleri
 
-* **C#**
-* **Python**
-* **TypeScript**
-* **JavaScript**
-* **Dart**
-
-### Backend
-
-* **ASP.NET Core**
-* **Entity Framework Core**
-* **RESTful API**
-* **JWT**
-* **RBAC**
+`C#` `TypeScript` `JavaScript` `Python` `Dart`
 
 ### Frontend
 
-* **React**
-* **TypeScript**
-* **Vite**
-* **Tailwind CSS**
-* **TanStack Query**
-* **Three.js**
+`React` `Vite` `Tailwind CSS` `TanStack Query` `Three.js`
 
-### Veritabanı ve Altyapı
+### Backend
 
-* **SQL Server**
-* **PostgreSQL**
-* **Redis**
-* **Docker**
-* **MinIO**
+`ASP.NET Core` `Entity Framework Core` `REST API` `JWT` `RBAC`
 
-### Yapay Zekâ & Bilgisayarlı Görü
+### Mobil
 
-* **Python**
-* **OpenCV**
-* **YOLO**
-* **Nesne Tespiti**
-* **Nesne Takibi**
-* **Görüntü Analizi**
+`Flutter` `Dart`
 
-### Araçlar & Geliştirme Süreçleri
+### Veritabanı & Altyapı
 
-* **Git**
-* **GitHub**
-* **GitHub Desktop**
-* **Agile / Scrum**
-* **REST API**
-* **Code Review**
+`SQL Server` `PostgreSQL` `Redis` `Docker` `MinIO`
+
+### Yazılım Geliştirme
+
+`Git` `GitHub` `Agile` `Scrum` `Code Review` `API Integration`
 
 ---
 
@@ -77,7 +48,7 @@ Kariyer hedefim; güçlü bir yazılım mühendisliği altyapısı oluştururken
 
 CAD tabanlı doğal gaz iç tesisat uygulamasının geliştirilme sürecinde Full Stack Developer ve takım koordinasyonu sorumlulukları üstlendim.
 
-* React, TypeScript, Tailwind CSS, TanStack Query ve Three.js kullanarak frontend geliştirmeleri gerçekleştirdim.
+* React, TypeScript, Tailwind CSS, TanStack Query ve Three.js ile frontend geliştirmeleri gerçekleştirdim.
 * ASP.NET Core ve SQL Server kullanarak backend ve API geliştirme süreçlerinde görev aldım.
 * JWT tabanlı kimlik doğrulama ve rol bazlı yetkilendirme süreçlerinde çalıştım.
 * Docker ve MinIO kullanarak uygulama altyapısına katkı sağladım.
@@ -90,7 +61,7 @@ CAD tabanlı doğal gaz iç tesisat uygulamasının geliştirilme sürecinde Ful
 **Ikarus Bilişim**
 
 * React ve Tailwind CSS kullanarak frontend geliştirmelerine katkı sağladım.
-* .NET Core tabanlı uygulamaların geliştirilme süreçlerinde görev aldım.
+* .NET Core tabanlı uygulamaların geliştirme süreçlerinde görev aldım.
 * Agile çalışma ortamında ekip içerisinde görev aldım.
 * Git tabanlı versiyon kontrol ve geliştirme süreçlerinde çalıştım.
 
@@ -98,28 +69,60 @@ CAD tabanlı doğal gaz iç tesisat uygulamasının geliştirilme sürecinde Ful
 
 ## Öne Çıkan Projeler
 
-### FootballIQ — Yapay Zekâ Destekli Futbol Analiz Sistemi
+### FootballIQ
 
 **Python · YOLOv8 · OpenCV · ByteTrack**
 
-Futbol maç videolarını analiz ederek oyuncu ve top hareketlerini otomatik olarak çıkarmayı amaçlayan bilgisayarlı görü projesi.
+Futbol maç videolarından oyuncu ve top hareketlerini analiz etmeyi amaçlayan bilgisayarlı görü projesi.
 
-* YOLOv8 ile oyuncu ve top tespiti üzerine çalışıyorum.
-* ByteTrack kullanarak nesne takip sistemi geliştiriyorum.
-* Oyuncu kimliklendirme, top takibi ve görüntü analizi süreçlerini içeren bir pipeline tasarlıyorum.
-* Futbol verilerinden otomatik analitik sonuçlar elde etmeye yönelik çalışmalar yürütüyorum.
+> Bu proje, ana kariyer hedefimden ziyade bilgisayarlı görü alanındaki teknik ilgimi ve farklı teknolojiler üzerinde çalışma deneyimimi yansıtmaktadır.
 
 ### AI CV Analyzer
 
-**ASP.NET Core · React · PostgreSQL · Redis · RabbitMQ · OpenAI**
+**ASP.NET Core · React · PostgreSQL · Redis · RabbitMQ**
 
-CV'leri iş ilanlarıyla karşılaştırarak adaylara yapılandırılmış geri bildirim sağlamayı amaçlayan yapay zekâ destekli uygulama.
+CV'leri iş ilanlarıyla karşılaştırarak adaylara yapılandırılmış geri bildirim sunmayı amaçlayan Full Stack uygulama.
 
-* CV verilerinin işlenmesi ve yapılandırılması üzerine çalışıyorum.
-* Aday profillerini iş ilanlarının gereksinimleriyle karşılaştırıyorum.
-* Asenkron işlemler için RabbitMQ kullanıyorum.
-* Performans ve ölçeklenebilirlik amacıyla Redis kullanıyorum.
-* ASP.NET Core ve React tabanlı bir Full Stack mimari oluşturuyorum.
+* ASP.NET Core tabanlı backend geliştirme.
+* React tabanlı kullanıcı arayüzü.
+* PostgreSQL ile veri yönetimi.
+* Redis ile önbellekleme.
+* RabbitMQ ile asenkron işlem yönetimi.
+
+### Mobil Uygulama Projeleri
+
+**Flutter · Dart**
+
+Mobil uygulama geliştirme alanındaki yetkinliklerimi geliştirmek amacıyla Flutter ve Dart kullanarak çeşitli uygulamalar geliştiriyorum.
+
+* Mobil UI geliştirme
+* State management
+* API entegrasyonu
+* JSON veri işleme
+* Local data management
+* Responsive mobil tasarım
+
+---
+
+## Şu Anda Odaklandığım Alanlar
+
+* Full Stack Development
+* Mobil Uygulama Geliştirme
+* Flutter & Dart
+* ASP.NET Core
+* React & TypeScript
+* RESTful API
+* Veritabanı Tasarımı
+* Yazılım Mimarisi
+* Git & Agile Development
+
+---
+
+## Hedeflerim
+
+Kısa vadede **Full Stack Developer** olarak frontend ve backend tarafındaki yetkinliklerimi ileri seviyeye taşımayı ve aynı zamanda **mobil uygulama geliştirme** konusunda profesyonel deneyim kazanmayı hedefliyorum.
+
+Uzun vadede web ve mobil platformları birlikte ele alabilen, ölçeklenebilir sistemler tasarlayabilen ve uçtan uca ürün geliştirebilen bir yazılım mühendisi olmak istiyorum.
 
 ---
 
@@ -135,32 +138,7 @@ CV'leri iş ilanlarıyla karşılaştırarak adaylara yapılandırılmış geri 
 
 ---
 
-## Hedeflerim
-
-Şu anda özellikle aşağıdaki alanlarda kendimi geliştirmeye odaklanıyorum:
-
-* Full Stack Development
-* Software Architecture
-* Computer Vision
-* Artificial Intelligence
-* Scalable Backend Systems
-* System Design
-* Teknik Liderlik
-
-Uzun vadede güçlü bir yazılım mühendisliği altyapısına sahip olarak **AI, Computer Vision ve yüksek performanslı yazılım sistemleri** geliştirmek ve teknik liderlik alanında ilerlemek istiyorum.
-
----
-
 ## İletişim
 
-* **LinkedIn:** [LinkedIn profilim](LINKEDIN_LINK)
-* **GitHub:** [GitHub profilim](GITHUB_LINK)
-* **Portfolio:** [Portföyüm](PORTFOLIO_LINK)
-* **E-posta:** EMAIL
-
----
-
-## Diller
-
-* **Türkçe:** Ana dil
-* **İngilizce:** B1/B2
+* **LinkedIn:** [LinkedIn profilim](https://www.linkedin.com/in/esra-ergün-355b452a3/)
+* **E-posta:** [esraa.ergun12@gmail.com](mailto:esraa.ergun12@gmail.com)
